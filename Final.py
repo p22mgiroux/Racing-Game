@@ -4,6 +4,8 @@ from pygame.locals import *
 import math
 
 pygame.init()
+    
+    
 
 width, height = 840, 840
 screen = pygame.display.set_mode((width, height))
